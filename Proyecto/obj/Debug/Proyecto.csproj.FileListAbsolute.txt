@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\HP\OneDrive\Escritorio\Proyecto progra 1\Proyecto\obj\Debug\Proyecto.pdb
